@@ -1,0 +1,16 @@
+input,textarea{
+    outline: none;
+}
+.init {
+    color: #666;
+    font-size: 12px;
+}
+.right{
+    color: yellowgreen;
+    font-size: 12px;
+}
+.wrong{
+    color: red;
+    font-size: 12px;
+
+}
